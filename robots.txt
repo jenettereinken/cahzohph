@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lahmobefi.sodabrew.com/sitemap.xml
